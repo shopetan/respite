@@ -1,5 +1,5 @@
 # Respuit
-馬鹿野郎お前俺はreqruitのAPI使うぞお前
+馬鹿野郎お前俺はRecruitのAPI使うぞお前
 
 # Use Teck
 - python(3.5)
