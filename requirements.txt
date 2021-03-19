@@ -5,7 +5,7 @@ Flask-SocketIO==2.7.1
 get==0.0.0
 gunicorn==19.6.0
 itsdangerous==0.24
-Jinja2==2.7.3
+Jinja2==2.11.3
 MarkupSafe==0.23
 mercurial==3.9
 post==0.0.0
