@@ -19,7 +19,7 @@ request==0.0.0
 requests==2.11.1
 setupfiles==0.0.13
 six==1.9.0
-urllib3==1.17
+urllib3==1.26.5
 vboxapi==1.0
 Werkzeug==0.10.4
 xlsx2csv==0.7.2
